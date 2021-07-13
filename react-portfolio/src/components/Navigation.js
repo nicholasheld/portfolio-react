@@ -18,7 +18,7 @@ const styles = {
 };
 
 // In Navbar, we can assign a style from an object by using curly braces
-function Navbar() {
+function Navigation() {
   return (
     <div style={styles.card}>
       <div style={styles.heading}>Home</div>
@@ -26,4 +26,4 @@ function Navbar() {
   );
 }
 
-export default Navbar;
+export default Navigation;
