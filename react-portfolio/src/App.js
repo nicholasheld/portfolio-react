@@ -1,7 +1,7 @@
 import React from 'react';
 import Navigation from './components/Navigation';
 import Header from './components/Header';
-import Project from './components/Project';
+// import Project from './components/Project';
 import Card from './components/Card';
 import Footer from './components/Footer';
 
@@ -11,8 +11,7 @@ function App() {
     <div>
       <Header />
       <Navigation />
-      <Project />
-      <Card />
+      {/* <Project /> */}
       <Card />
       <Card />
       <Footer/>
