@@ -1,0 +1,22 @@
+input,
+textarea {
+    display: block;
+    margin: 30px;
+    font-family: inherit;
+    width: 80%;
+    height: 25px;
+}
+
+textarea {
+    height: 50px;
+}
+
+form button {
+    padding: 20px;
+    margin: 20px 50px;
+    display: block;
+    background-color: var(--compliment);
+    font: inherit;
+    border-radius: 3px;
+    letter-spacing: 1em;
+}

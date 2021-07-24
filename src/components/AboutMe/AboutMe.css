@@ -1,0 +1,26 @@
+#summary {
+    display: flex;
+}
+
+p {
+    display: flex;
+    flex: 2 1;
+}
+
+#summary img {
+   max-width: 350px;
+   max-height: 300px;
+   margin: 0 auto;
+   border: 8px solid var(--compliment);
+   box-shadow: 0px 0px black;
+   transition: box-shadow 1s;
+   flex: 1 2;
+   width: auto;
+   height: auto;
+}
+
+@media screen and (max-width: 620px) {
+  #summary {
+   flex-direction: column;
+  } 
+}

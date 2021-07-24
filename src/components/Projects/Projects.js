@@ -1,6 +1,6 @@
 import React from 'react';
 import './Projects.css';
-import court from './images/court.png';
+import court from './Images/court.png';
 
 const projectData = [
 
