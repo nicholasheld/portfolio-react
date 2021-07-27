@@ -2,6 +2,7 @@ import React from 'react';
 import './Projects.css';
 import court from './Images/court.png';
 import brew from './Images/brew.png';
+import blog from './Images/blog.png';
 
 const projectData = [
 
@@ -18,7 +19,14 @@ const projectData = [
         deployedName: 'https://nicholasheld.github.io/breweries-team4/',
         image: brew,
         description: 'This is a web application to find food and breweries paired by zip code '
-    }
+    },
+    {
+        title: 'Tech Blog',
+        repoName: 'tech-blog',
+        deployedName: 'https://peaceful-depths-88586.herokuapp.com/',
+        image: blog,
+        description: 'This is a tech blog where users can sign up and leave comments'
+    },
 ];
 
 export function Projects() {
