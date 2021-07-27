@@ -1,6 +1,6 @@
 footer {
-    background-color: rgb(110, 102, 102);
-    color: white;
+    background-color: rgb(238, 228, 228);
+    color: rgb(43, 35, 35);
     height: 100px;
     display: flex;
     flex-flow: row wrap;
@@ -19,7 +19,7 @@ footer nav {
 }
  
 footer li {
-    color: white;
+    color: rgb(7, 9, 46);
     box-shadow: 0px 0px rgb(161, 161, 141);
     transition: box-shadow 1s;
 }

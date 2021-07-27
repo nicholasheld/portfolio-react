@@ -1,6 +1,7 @@
 import React from 'react';
 import './Projects.css';
 import court from './Images/court.png';
+import brew from './Images/brew.png';
 
 const projectData = [
 
@@ -10,6 +11,13 @@ const projectData = [
         deployedName: 'https://quiet-beyond-45478.herokuapp.com/',
         image: court,
         description: 'This is a web application to network with others looking to join or schedule pick-up basketball games '
+    },
+    {
+        title: 'Fun Times',
+        repoName: 'breweries-team4',
+        deployedName: 'https://nicholasheld.github.io/breweries-team4/',
+        image: brew,
+        description: 'This is a web application to find food and breweries paired by zip code '
     }
 ];
 
