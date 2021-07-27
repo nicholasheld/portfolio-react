@@ -2,7 +2,7 @@ import React from 'react';
 import './Projects.css';
 import court from './Images/court.png';
 import brew from './Images/brew.png';
-import blog from './Images/blog.png';
+import blog from './Images/blog.PNG';
 
 const projectData = [
 
