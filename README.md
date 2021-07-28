@@ -1,3 +1,7 @@
+# My React Portfolio
+This is my portfolio utilizing react. There are a few projects listed and more to come. Below is a screenshot of the deployed site:
+![screenshot](./src/components/screenshot.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
