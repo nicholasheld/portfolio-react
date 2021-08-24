@@ -4,6 +4,7 @@ import court from './Images/court.png';
 import brew from './Images/brew.png';
 import blog from './Images/blog.PNG';
 import password from './Images/password.PNG';
+import planner from './Images/planner.PNG';
 
 const projectData = [
 
@@ -34,6 +35,13 @@ const projectData = [
         deployedName: 'https://nicholasheld.github.io/password-generator/',
         image: password,
         description: 'This is a password generator that lets the user select the character options for the password'
+    },
+    {
+        title: 'Daily Planner',
+        repoName: 'event-planner',
+        deployedName: 'https://nicholasheld.github.io/event-planner/',
+        image: planner,
+        description: 'This is a daily planner that allows the user to add events to a calendar'
     },
 ];
 
