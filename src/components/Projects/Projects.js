@@ -3,6 +3,7 @@ import './Projects.css';
 import court from './Images/court.png';
 import brew from './Images/brew.png';
 import blog from './Images/blog.PNG';
+import password from './Images/password.PNG';
 
 const projectData = [
 
@@ -26,6 +27,13 @@ const projectData = [
         deployedName: 'https://peaceful-depths-88586.herokuapp.com/',
         image: blog,
         description: 'This is a tech blog where users can sign up and leave comments'
+    },
+    {
+        title: 'Password Generator',
+        repoName: 'password-generator',
+        deployedName: 'https://nicholasheld.github.io/password-generator/',
+        image: password,
+        description: 'This is a password generator that lets the user select the character options for the password'
     },
 ];
 
