@@ -1,5 +1,7 @@
 # React Portfolio
-This is my portfolio utilizing React. My github repo also has a static portfolio, if interested. There are a several projects listed and more to come. Below is a screenshot of the deployed site:
+This is my portfolio utilizing React. My github repo also has a static portfolio, if interested. There are a several projects listed and more to come. The react portolio has been deployed to Github pages and can be found here: https://nicholasheld.github.io/portfolio-react/
+
+Below is a screenshot of the deployed site:
 ![screenshot](./src/components/screenshot.PNG)
 
 # Technologies
